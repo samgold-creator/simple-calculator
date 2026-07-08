@@ -9,6 +9,6 @@ This is a customized interactive calculator designed and developed as part of my
 - Built using AI-assisted coding practices to optimize logic and structure
 
 ## Author
-- Developed by: [Your Name]
+- Developed by: [samuel worku]
 - Grade: Rising Grade 12 Student (Ethiopia)
 - Future Goal: Software Engineering / Computer Science
